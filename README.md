@@ -5,7 +5,7 @@
 | 🔐 **Category**                                  | 🔢 **Rooms** | 🔒 **Rooms Completed by Me** |
 | ------------------------------------------------ |:------------:|:---------------------------:|
 | **[Introductory Rooms](#intro-rooms)**           |     21       |                             |
-| **[Linux Fundamentals](#linux-fundamentals)**    |      4       |                             |
+| **[Linux Fundamentals](#linux-fundamentals)**    |      4       |            2                |
 | **[Windows Fundamentals](#windows-fundamentals)**|      3       |                             |
 | **[Basic Rooms](#basics-rooms)**                 |     14       |                             |
 | **[Reconnaissance](#recon)**                     |     10       |                             |
@@ -89,9 +89,9 @@
 
 ## Linux Fundamentals
 
-- [ ] [🕵️ TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules)
+- [x] [🕵️ TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules)
   
-- [ ] [🕵️ TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
+- [x] [🕵️ TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
   
 - [ ] [🕵️ TryHackMe | Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2)  **🚨 Attention!** Multiple users have reported that this room is **no longer free.**
  
