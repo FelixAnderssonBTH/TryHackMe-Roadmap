@@ -1,23 +1,3 @@
-<div align="center">
-
-  <img width="1536" height="1024" alt="TryHackMe-Roadmap" src="https://github.com/user-attachments/assets/4ba3d109-11ff-4a73-8b29-3866890699c4" />
-
-</a>
-
-</div>
-
-
-# 🚀 500+ Free TryHackMe Rooms (_Cost: 💸$0.00!_) 🛡️
-
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=flat&color=BC4E99" alt="Star Badge"/>
-  <img src="https://img.shields.io/badge/PRs-welcome-brown.svg?longCache=true" alt="Pull Requests"/>
-  <img src="https://img.shields.io/github/license/Hunterdii/tryhackme-free-rooms?labelColor=Jade&color=%2327ae60&cacheSeconds=3600" alt="MIT License"/>
-  <img src="https://img.shields.io/badge/Open%20-Source-pink" alt="Open Source Badge"/>
-  <img src="https://img.shields.io/github/contributors/Hunterdii/tryhackme-free-rooms" alt="GitHub Contributors"/>
-  <img src="https://img.shields.io/github/last-commit/Hunterdii/tryhackme-free-rooms?display_timestamp=author&style=flat&logo=tryhackme-free-rooms&logoColor=%23F74C00&logoSize=auto&label=TryHackMe%20Free%20Rooms&labelColor=Lavender&color=%239b59b6&cacheSeconds=200" alt="Last Commit"/>
-  <img src="https://img.shields.io/badge/Owner-%40Huntedii-<COLOR>.svg" alt="Owner Badge"/>
-</p> 
 
 # Github Stats:
 
